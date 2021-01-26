@@ -38,9 +38,6 @@
     <ClCompile Include="..\sources\mytree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\sources\TTTTTTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="..\sources\wxPlugin.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

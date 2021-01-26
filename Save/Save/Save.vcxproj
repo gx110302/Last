@@ -152,7 +152,6 @@
     <ClCompile Include="..\sources\link_dialogs.cpp" />
     <ClCompile Include="..\sources\mytree.cpp" />
     <ClCompile Include="..\sources\NiQian.cpp" />
-    <ClCompile Include="..\sources\TTTTTTest.cpp" />
     <ClCompile Include="..\sources\wxPlugin.cpp" />
     <ClCompile Include="..\sources\wxPluginInit.cpp" />
     <ClCompile Include="try.cpp" />
