@@ -47,9 +47,6 @@
     <ClCompile Include="..\sources\wxPluginInit.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\sources\NiQian.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="try.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
