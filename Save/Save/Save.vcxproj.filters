@@ -50,5 +50,8 @@
     <ClCompile Include="..\sources\NiQian.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="try.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
