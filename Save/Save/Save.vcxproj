@@ -155,6 +155,7 @@
     <ClCompile Include="..\sources\wxPlugin.cpp" />
     <ClCompile Include="..\sources\wxPluginInit.cpp" />
     <ClCompile Include="try.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
